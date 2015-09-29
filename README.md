@@ -10,4 +10,4 @@ Usage
 
 Generate a Scrapy project::
 
-    cookiecutter https://github.com/arthuralvim/scrapy-project-template.git
+    cookiecutter https://github.com/bopo/scrapy-project-template.git
