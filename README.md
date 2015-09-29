@@ -3,7 +3,7 @@ scrapy-project-template
 ======================
 
 A Cookiecutter compliant template for a basic Scrapy project.
-See https://github.com/audreyr/cookiecutter.
+See https://github.com/bopo/cookiecutter.
 
 Usage
 -----
